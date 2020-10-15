@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://gurelbs.github.io/REACT",
+  "homepage": "https://gurelbs.github.io/REACT",
   "eslintConfig": {
     "extends": "react-app"
   },
